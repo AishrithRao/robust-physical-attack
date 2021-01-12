@@ -123,12 +123,3 @@ Transferability Experiments: https://youtu.be/4KFhULX3v58
 Snapshots of the drive-by test results. In (a), the person perturbation was detected 38% of the frames as a person and only once as a stop sign. The perturbation in (b) was detected 11% of the time as a sports ball and never as a stop sign. The untargeted perturbation in (c) was never detected as a stop sign or anything else.
 
 
-
-## Researchers
-
-|  Name                 | Affiliation                     |
-|-----------------------|---------------------------------|
-| Shang-Tse Chen        | Georgia Institute of Technology |
-| Cory Cornelius        | Intel Corporation               |
-| Jason Martin          | Intel Corporation               |
-| Polo Chau             | Georgia Institute of Technology |
